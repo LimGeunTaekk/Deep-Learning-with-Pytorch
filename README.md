@@ -22,7 +22,7 @@
 |:---:|:---:|:---:|:---:|
 | 1_1 | Introduction to Pytorch Tensor | [2022-08-30](https://github.com/LimGuenTaek/Deep-learning-with-pytorch/blob/main/Code/Week.1/Chapter_03_Tensor.ipynb)| 임근택 |
 | 1_2 | Data Representation using Tensors | [2022-09-02](https://github.com/LimGuenTaek/Deep-Learning-with-Pytorch/blob/main/Code/Week.2/Chapter_04_DataToTensor.ipynb) | 김우혁 |
-| 2_1 |  |  | 임근택 |
+| 2_1 | Gradient Descent and Optimization | [2022-09-06](https://github.com/LimGuenTaek/Deep-Learning-with-Pytorch/tree/main/Code/Week.2) | 임근택|
 | 2_2 |  |  | 김우혁 |
 | 3_1 |  |  | 임근택 |
 | 3_2 |  |  | 김우혁 |
